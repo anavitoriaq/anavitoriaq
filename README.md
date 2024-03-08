@@ -35,7 +35,7 @@
 #### For the future:
 
 ![Java](https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/Csharp-9400d3?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-ffff00?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
 
 &nbsp;
 &nbsp;
