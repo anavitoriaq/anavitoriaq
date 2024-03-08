@@ -34,8 +34,12 @@
 
 #### For the future:
 
-![Java](https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-ffff00?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
+
+#### Education:
+
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
