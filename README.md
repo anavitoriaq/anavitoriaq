@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:CB58BB,100:E1889C&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CB58BB&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CB58BB&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ana+Vitória;+Information+Technology+student+at+Ufersa!;Back-End+Developer!+:%29)](https://git.io/typing-svg)
 
@@ -52,4 +52,4 @@
 - 👩‍🎓 **Graduating in information technology** at [Ufersa](https://ufersa.edu.br/);
 - 👩‍🎓 **Graduating in software engineering** at [Ufersa](https://ufersa.edu.br/);
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:CB58BB,100:E1889C&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=CB58BB&section=footer"/>
